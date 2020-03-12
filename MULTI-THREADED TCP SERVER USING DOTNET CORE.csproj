@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MULTI_THREADED_TCP_SERVER_USING_DOTNET_CORE</RootNamespace>
+  </PropertyGroup>
+
+</Project>
